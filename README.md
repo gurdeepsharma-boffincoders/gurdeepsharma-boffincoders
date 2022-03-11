@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gurdeepsharma-boffincoders
+- 👋 Hi, I’m Gurdeep Sharma
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning & working as MERN stack developer.
 - 📫 How to reach me gurdeep@boffincoders.com
 
 <!---
